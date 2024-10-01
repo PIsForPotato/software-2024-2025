@@ -5,4 +5,5 @@ rustc --version || curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | s
 
 pip install maturin
 pip install vectormath
+pip install matplotlib
 maturin develop
